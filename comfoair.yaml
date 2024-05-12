@@ -8,7 +8,7 @@ esphome:
 external_components:
   - source:
       type: git
-      url: https://github.com/wichers/esphome-comfoair
+      url: https://github.com/cookalone/esphome-comfoair
     components: [comfoair]
 
 wifi:
