@@ -7,7 +7,7 @@ Add the following definition of `external_components` to your yaml configuration
 external_components:
   - source:
       type: git
-      url: https://github.com/wichers/esphome-comfoair
+      url: https://github.com/cookalone/esphome-comfoair
     components: [comfoair]
 ```
 and then use it:
